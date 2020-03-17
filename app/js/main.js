@@ -11,4 +11,5 @@ $(function(){
         $('.menu__list').slideToggle();
     });
 
+    new WOW().init();
 });
