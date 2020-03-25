@@ -223,6 +223,30 @@
     width: 100%;
     color: #333333;
 }
+.servisec__img-2{
+    img{
+        width: 36px;
+        height: 40px;
+        left: 21px;
+        top: 18px;;
+    }
+}
+.servisec__img-3 {
+    img {
+        width: 39px;
+        height: 41px;
+        left: 18px;
+        top: 15px;
+    }
+}
+.servisec__img-4 {
+    img {
+        width: 42px;
+        height: 40px;
+        left: 17px;
+        top: 15px;
+    }
+}
 /* end servisec */
 /* start about */
 
@@ -664,8 +688,7 @@
 .footer__copy-text{
     padding-top: 30px;
     padding-bottom: 50px;
-    display: flex;
-    justify-content: flex-end;
+    text-align: center;
     color: #aeb0b5;
     border-top: 1px solid #3a3b43;
 }
